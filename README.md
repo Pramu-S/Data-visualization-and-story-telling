@@ -52,14 +52,3 @@ To create compelling data visualizations from a business dataset that convey cle
 5. Final Summary and Recommendations
 
 ---
-
-## 📄 Deliverables
-- `Data_Visualization_Storytelling_Report.pdf` – Final report  
-- `README.md` – Project explanation  
-- `Superstore_Data.xlsx` – Dataset used  
-- `Screenshots/` – (Optional) Dashboard images
-
----
-
-## 📬 Contact
-Feel free to connect for clarifications or improvements.
